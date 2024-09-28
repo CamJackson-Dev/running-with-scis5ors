@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "We are Running with Scis5ors!",
+    "paragraph": "Cutting Through Comfort, Inspiring Nurses to Take the Leap"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We’re three mental health nurses from Townsville, breaking away from the comfort of secure careers to embrace the unknown. Our journey across the Australian outback is all about exploration, adventure, and daring to take risks. By stepping outside the ordinary, we aim to inspire fellow nurses to cut loose, chase their own dreams, and discover the beauty and challenges this country has to offer. Join us as we navigate the rugged landscapes and celebrate the freedom of choosing the adventurous path in life!",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -132,23 +132,18 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Laura Jenson",
+      "job": "Sales Marketing"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "name": "Lisa Doe",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Kelly Harding",
+      "job": "Director"
     }
   ],
   "Contact": {
