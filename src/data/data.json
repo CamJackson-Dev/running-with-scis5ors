@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "We are Running with Scis5ors!",
+    "title": "Running with Scis5ors",
     "paragraph": "Cutting Through Comfort, Inspiring Nurses to Take the Leap"
   },
   "About": {
@@ -137,22 +137,22 @@
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Lisa Doe",
+      "name": "Jessica white",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Kelly Harding",
-      "job": "Director"
+      "job": "CEO"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "",
+    "phone": "0488 239 091",
+    "email": "Runningwithscis5ors@hotmail.com ",
+    "facebook": "https://www.facebook.com/profile.php?id=61565516064529",
+    "instagram": "https://www.instagram.com/runningwithscis5ors",
+    "tiktok": "https://www.tiktok.com/@runningwithscis5ors"
   },
   "Features": [
     {
