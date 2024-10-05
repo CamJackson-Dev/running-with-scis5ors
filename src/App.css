@@ -16,3 +16,37 @@
     width: 110%;
   }
 }
+
+/* Ensure the logo fits well within the navbar */
+.navbar-logo {
+  width: 50px;
+  height: auto;
+  max-height: 100%; /* Keep the logo within the navbar height */
+}
+
+/* Make the logo bigger on larger screens */
+@media (min-width: 768px) {
+  .navbar-logo {
+    width: 80px;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-logo {
+    width: 70px;
+  }
+}
+
+/* Align the brand/logo and ensure it doesn't exceed the navbar height */
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 0;
+}
+
+/* Adjust navbar items (links) to align better within the reduced height */
+.navbar-nav > li > a {
+  padding: 10px 15px; /* Reduce padding for smaller navbar height */
+  line-height: 40px; /* Align text vertically within the navbar */
+}

@@ -21,7 +21,7 @@ export const Navigation = (props) => {
             <img
               src="/img/logo/running-with-scis5ors.png"
               alt="Running with Scis5ors Logo"
-              style={{ width: "50px", height: "auto" }}
+              className="navbar-logo"
             />
           </a>
         </div>
@@ -31,31 +31,16 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
-            {/* <li>
-              <a href="#features" className="page-scroll">
-                Features
-              </a>
-            </li> */}
             <li>
               <a href="#about" className="page-scroll">
                 About
               </a>
             </li>
-            {/* <li>
-              <a href="#services" className="page-scroll">
-                Services
-              </a>
-            </li> */}
             <li>
               <a href="#portfolio" className="page-scroll">
                 Gallery
               </a>
             </li>
-            {/* <li>
-              <a href="#testimonials" className="page-scroll">
-                Testimonials
-              </a>
-            </li> */}
             <li>
               <a href="#team" className="page-scroll">
                 Team
