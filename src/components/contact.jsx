@@ -131,26 +131,42 @@ export const Contact = (props) => {
               </p>
             </div>
           </div>
+
           <div className="col-md-12">
             <div className="row">
-              <div className="social">
-                <ul>
-                  <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
-                      <i className="fa fa-facebook"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.instagram : "/"}>
-                      <i className="fa fa-instagram"></i>
-                    </a>
-                  </li>
-                  {/* <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
-                    </a>
-                  </li> */}
-                </ul>
+              <div className="col-md-4 text-center"></div>
+
+              <div className="col-md-4 text-center">
+                <div className="social">
+                  <ul>
+                    <li>
+                      <a href={props.data ? props.data.facebook : "/"}>
+                        <i className="fa fa-facebook"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href={props.data ? props.data.instagram : "/"}>
+                        <i className="fa fa-instagram"></i>
+                      </a>
+                    </li>
+                    {/* <li>
+            <a href={props.data ? props.data.youtube : "/"}>
+              <i className="fa fa-youtube"></i>
+            </a>
+          </li> */}
+                  </ul>
+                </div>
+              </div>
+
+              <div className="col-md-4 text-center">
+                <div className="social d-flex align-items-center justify-content-center">
+                  <h3 className="mr-2">Website By</h3>
+                  <img
+                    src="img/logo/devsaus.png"
+                    alt="Logo"
+                    className="logo-img"
+                  />
+                </div>
               </div>
             </div>
           </div>
