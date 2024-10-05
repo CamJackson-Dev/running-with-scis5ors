@@ -8,8 +8,8 @@ export const Team = (props) => {
           <h2 className="text-center">Meet the Team</h2>
           <p>
             At Running with Scis5ors, we are a passionate trio of mental health
-            nurses—Kelly, Laura, and Lisa—dedicated to exploring the unknown and
-            inspiring others. Our journey across Australia isn't just about
+            nurses—Kelly, Laura, and Jessica—dedicated to exploring the unknown
+            and inspiring others. Our journey across Australia isn't just about
             adventure; it’s about sharing our experiences, insights, and
             encouraging fellow nurses to embrace their own paths. Together,
             we’re committed to breaking the mold and challenging the status quo,
