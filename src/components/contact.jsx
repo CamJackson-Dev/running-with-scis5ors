@@ -162,7 +162,7 @@ export const Contact = (props) => {
                 <div className="social d-flex align-items-center justify-content-center">
                   <h3 className="mr-2">Website By</h3>
                   <img
-                    src="img/logo/devsaus.png"
+                    src="/img/logo/devsAus.png"
                     alt="Logo"
                     className="logo-img"
                   />
