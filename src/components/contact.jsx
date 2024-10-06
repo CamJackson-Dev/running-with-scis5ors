@@ -161,9 +161,9 @@ export const Contact = (props) => {
               <div className="col-md-4 text-center">
                 <div className="social d-flex align-items-center justify-content-center">
                   <h3 className="mr-2">Website By</h3>
-                  <a href="https://www.linkedin.com/in/devsaus/">
+                  <a href="https://townsvillewebsites.com/">
                     <img
-                      src="/img/logo/devsAus.png"
+                      src="/img/logo/townsville-websites-logo.png"
                       alt="Logo"
                       className="logo-img"
                     />
